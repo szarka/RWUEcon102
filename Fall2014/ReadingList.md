@@ -12,6 +12,12 @@ The readings below provide valuable background, but you don't need to read them 
 
 Read, Leonard E. "[I, Pencil: My Family Tree as told to Leonard E. Read](http://oll.libertyfund.org/index.php?option=com_staticxt&staticfile=show.php%3Ftitle=112&layout=html)". *The Freeman*, December 1958. See also this video with [Milton Friedman's version](https://www.youtube.com/watch?v=67tHtpac5ws).
 
+Smith, Adam. [*An Inquiry into the Nature and Causes of the Wealth of Nations*](http://www.gutenberg.org/etext/3300), 1776. [Also available in PDF or EPUB via Google Books](http://books.google.com/books?id=Q1XlnGzcIa8C&dq=adam+smith+wealth+of+nations). Too long for me to expect you to read in its entirely this semester! But see Book IV, Chapter 2 (Of restraints upon importation from foreign countries of such goods as can be produced at home) for Smith's (in)famous statement about the ïnvisible hand". Book I, Chapters 1-3 might also be worth giving a go.
+
+Smith, George, Jack High, and Wendy McElroy. *Adam Smith: The Wealth of Nations*, 1985. This audio book from Knowledge Products is now available for free from Cato Institute in [module 4](http://www.cato.org/cato-university/home-study-course/module4) and [module 5](http://www.cato.org/cato-university/home-study-course/module5) of their home study course. The accents in the dramatizations are kind of hokey, but they do make the quotes strangely memorable. While I would not consider this the definitive statement on Smith and his philosophy, there is a lot of good background here. Not required reading, but worth your time while working off the dreaded "freshman 15" at the gym.
+
+Levy, David M., and Sandra J. Peart. "[The Secret History of the Dismal Science. Part I. Economics, Religion and Race in the 19th Century.](http://www.econlib.org/library/Columns/LevyPeartdismal.html)" *Library of Economics and Liberty*, January 22, 2001. The true origin of the epithet "the dismal science" is much more interesting than most who hurl it realize...
+
 ## How Markets Work
 
 Required Readings:
