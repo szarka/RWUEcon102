@@ -10,7 +10,7 @@ Suggested Readings:
 
 The readings below provide valuable background, but you don't need to read them all this week! They treat themes that we will return to throughout the course, so work them in as you find time.
 
-Friedman, David. [*Price Theory: An Intermediate Text*](http://www.daviddfriedman.com/Academic/Price_Theory/PThy_ToC.html), second edition, 1990. Chapters 1 ("What is Economics?") and 2 ("How Economists Think.") provides an excellent introduction to how economists see the world.
+Friedman, David. [*Price Theory: An Intermediate Text*](http://www.daviddfriedman.com/Academic/Price_Theory/PThy_ToC.html), second edition, 1990. Chapters 1 ("What is Economics?") and 2 ("How Economists Think.") provide an excellent introduction to how economists see the world.
 
 Read, Leonard E. "[I, Pencil: My Family Tree as told to Leonard E. Read](http://oll.libertyfund.org/index.php?option=com_staticxt&staticfile=show.php%3Ftitle=112&layout=html)". *The Freeman*, December 1958. See also this video with [Milton Friedman's version](https://www.youtube.com/watch?v=67tHtpac5ws).
 
