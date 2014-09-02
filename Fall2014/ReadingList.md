@@ -5,6 +5,12 @@
 Required Readings:
 * Mankiw, Ch. 1-2 Thinking Like an Economist
 * Mankiw, Ch. 3 Interdependence & Gains from Trade
+ 
+Suggested Readings:
+
+The readings below provide valuable background, but you don't need to read them all this week! They treat themes that we will return to throughout the course, so work them in as you find time.
+
+Read, Leonard E. "[I, Pencil: My Family Tree as told to Leonard E. Read](http://oll.libertyfund.org/index.php?option=com_staticxt&staticfile=show.php%3Ftitle=112&layout=html)". *The Freeman*, December 1958. See also this video with [Milton Friedman's version](https://www.youtube.com/watch?v=67tHtpac5ws).
 
 ## How Markets Work
 
