@@ -31,6 +31,12 @@ Required Readings:
 * Mankiw, Ch. 5 Elasticity
 * Mankiw, Ch. 6 Government Policies
 
+Suggested Readings:
+
+* "[Yellowberry: Meet the Teen Titan Who Is Taking On The Youth Bra Industry](http://www.lingerietalk.com/2014/04/08/lingerie-news/yellowberry-meet-the-teen-titan-who-is-taking-on-the-youth-bra-industry.html)." *LingerieTalk*, April 8, 2014.
+* "[Farming hard drives: 2 years and $1M later](https://www.backblaze.com/blog/farming-hard-drives-2-years-and-1m-later/)." *Backblaze*, November 26, 2013.
+* "['The Great Fish Swap': How America Is Downgrading Its Seafood Supply](http://www.npr.org/blogs/thesalt/2014/07/01/327248504/the-great-fish-swap-how-america-is-downgrading-its-seafood-supply)." *Fresh Air*, July 01, 2014.
+
 ## Markets & Welfare
 
 Required Readings:
