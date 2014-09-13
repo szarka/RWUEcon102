@@ -26,6 +26,8 @@ Bastiat, Frédéric. "[What Is Seen and What Is Not Seen](http://www.econlib.org
 
 Required Readings:
 * Mankiw, Ch. 4 Supply & Demand
+* "[Brazil's drought creates a surge in global coffee prices](http://www.marketplace.org/topics/world/brazils-drought-creates-surge-global-coffee-prices)." *Marketplace*, May 30, 2014.
+* "[The price of smoked salmon hasn't swum upstream](http://www.marketplace.org/topics/economy/marketplace-inflation-calculator/price-smoked-salmon-hasnt-swum-upstream)." *Marketplace*, September 12, 2014.
 * Mankiw, Ch. 5 Elasticity
 * Mankiw, Ch. 6 Government Policies
 
