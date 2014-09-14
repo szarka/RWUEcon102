@@ -37,6 +37,10 @@ Suggested Readings:
 * "[Farming hard drives: 2 years and $1M later](https://www.backblaze.com/blog/farming-hard-drives-2-years-and-1m-later/)." *Backblaze*, November 26, 2013.
 * "['The Great Fish Swap': How America Is Downgrading Its Seafood Supply](http://www.npr.org/blogs/thesalt/2014/07/01/327248504/the-great-fish-swap-how-america-is-downgrading-its-seafood-supply)." *Fresh Air*, July 01, 2014.
 
+Mentioned:
+
+* Ries, Eric. [*The Lean Startup*](http://www.amazon.com/Lean-Startup-Innovation-Successful-Businesses-ebook/dp/B004J4XGN6/), 2011. See also [theleanstartup.com](http://theleanstartup.com/). A related idea in programming is [Agile software development](https://en.wikipedia.org/wiki/Agile_software_development).
+
 ## Markets & Welfare
 
 Required Readings:
