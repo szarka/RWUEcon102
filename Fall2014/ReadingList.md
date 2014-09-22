@@ -28,8 +28,10 @@ Required Readings:
 * Mankiw, Ch. 4 Supply & Demand
 * "[Brazil's drought creates a surge in global coffee prices](http://www.marketplace.org/topics/world/brazils-drought-creates-surge-global-coffee-prices)." *Marketplace*, May 30, 2014.
 * "[The price of smoked salmon hasn't swum upstream](http://www.marketplace.org/topics/economy/marketplace-inflation-calculator/price-smoked-salmon-hasnt-swum-upstream)." *Marketplace*, September 12, 2014.
+* "[Rail delays knock north US grain prices](http://www.ft.com/intl/cms/s/0/b37af90a-3184-11e4-b2fd-00144feabdc0.html#axzz3E3GzIiIo)." *Financial Times*, September 1, 2014.
 * Mankiw, Ch. 5 Elasticity
 * Mankiw, Ch. 6 Government Policies
+* "[Does Raising The Minimum Wage Kill Jobs?](http://www.npr.org/blogs/money/2014/03/06/286861541/does-raising-the-minimum-wage-kill-jobs)." *Planet Money*, March 6, 2014.
 
 Suggested Readings:
 
@@ -40,6 +42,7 @@ Suggested Readings:
 Mentioned:
 
 * Ries, Eric. [*The Lean Startup*](http://www.amazon.com/Lean-Startup-Innovation-Successful-Businesses-ebook/dp/B004J4XGN6/), 2011. See also [theleanstartup.com](http://theleanstartup.com/). A related idea in programming is [Agile software development](https://en.wikipedia.org/wiki/Agile_software_development).
+* Thiel, Peter. [*Zero to One: Notes on Startups, or How to Build the Future*](http://zerotoonebook.com/), 2014. Whilte the book is worthwhile, do take Thiel's comments about economic theory with a grain of salt. See also Joseph Schumpeter's concept of [creative destruction](https://en.wikipedia.org/wiki/Creative_destruction).
 
 ## Markets & Welfare
 
