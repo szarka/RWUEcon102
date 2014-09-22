@@ -38,11 +38,12 @@ Suggested Readings:
 * "[Yellowberry: Meet the Teen Titan Who Is Taking On The Youth Bra Industry](http://www.lingerietalk.com/2014/04/08/lingerie-news/yellowberry-meet-the-teen-titan-who-is-taking-on-the-youth-bra-industry.html)." *LingerieTalk*, April 8, 2014.
 * "[Farming hard drives: 2 years and $1M later](https://www.backblaze.com/blog/farming-hard-drives-2-years-and-1m-later/)." *Backblaze*, November 26, 2013.
 * "['The Great Fish Swap': How America Is Downgrading Its Seafood Supply](http://www.npr.org/blogs/thesalt/2014/07/01/327248504/the-great-fish-swap-how-america-is-downgrading-its-seafood-supply)." *Fresh Air*, July 01, 2014.
+* "[Her Throne Defunct, a Princess Fights Eviction From Her Manhattan Walk-Up](http://www.nytimes.com/2014/08/05/nyregion/princess-fights-leaks-and-an-eviction-notice-in-manhattan.html?_r=0)." *The New York Times*, August 4, 2014.
 
 Mentioned:
 
 * Ries, Eric. [*The Lean Startup*](http://www.amazon.com/Lean-Startup-Innovation-Successful-Businesses-ebook/dp/B004J4XGN6/), 2011. See also [theleanstartup.com](http://theleanstartup.com/). A related idea in programming is [Agile software development](https://en.wikipedia.org/wiki/Agile_software_development).
-* Thiel, Peter. [*Zero to One: Notes on Startups, or How to Build the Future*](http://zerotoonebook.com/), 2014. Whilte the book is worthwhile, do take Thiel's comments about economic theory with a grain of salt. See also Joseph Schumpeter's concept of [creative destruction](https://en.wikipedia.org/wiki/Creative_destruction).
+* Thiel, Peter. [*Zero to One: Notes on Startups, or How to Build the Future*](http://zerotoonebook.com/), 2014. While the book is worthwhile, do take Thiel's comments about economic theory with a grain of salt. See also Joseph Schumpeter's concept of [creative destruction](https://en.wikipedia.org/wiki/Creative_destruction).
 
 ## Markets & Welfare
 
