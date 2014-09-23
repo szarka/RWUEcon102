@@ -34,3 +34,9 @@ As you can see, the equilibrium price is $6 and the equlibrium quantity is 8 pea
 Total revenue at the equlibrium is $48 per day. With some arithmetic, you can find that this is not the maximum. For example, at $7, quantity demanded is 6, making TR = 42. But at $5, quantity demanded is 10, making TR = 50. Since lowering the price increases TR, demand is price inelastic at the equilibrium price.
 
 The lazy way to find the revenue-maximizing price is to use calculus to find an expression for the elasticity and set it equal to -1. You get 5.
+
+## Cheap Apples?
+
+This is an example of a price ceiling. This price ceiling is binding, so your graph should show that the quantity demanded exceeds the quantity supply at a price of $0.90. In other words, there is *excess demand* (or a *shortage*).
+
+Since price can no longer ration access to apples effectively, the situation will be resolved some other way. For example, a black market in apples may arise (and price may be higher than $1 on the black market!); apples suppliers may engage in costless discrimination ("no apples for you"); apples buyers may waste time standing in line; and the apples that are sold may not reach the buyers who value them most in dollar terms.
