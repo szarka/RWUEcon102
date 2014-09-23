@@ -40,3 +40,15 @@ The lazy way to find the revenue-maximizing price is to use calculus to find an 
 This is an example of a price ceiling. This price ceiling is binding, so your graph should show that the quantity demanded exceeds the quantity supply at a price of $0.90. In other words, there is *excess demand* (or a *shortage*).
 
 Since price can no longer ration access to apples effectively, the situation will be resolved some other way. For example, a black market in apples may arise (and price may be higher than $1 on the black market!); apples suppliers may engage in costless discrimination ("no apples for you"); apples buyers may waste time standing in line; and the apples that are sold may not reach the buyers who value them most in dollar terms.
+
+## Survivor Comparative Advantage
+
+Alice's opportunity cost of producing nuts is 1/5 of a peccary per 2 kg of nuts, or 1/10 peccary per kg. Bob's opportunity cost of producing nuts is 1/4 of a peccary per kg of nuts. Since Bob's cost is lower, he has the comparative advantage in nut production, and he should specialize in producing nuts while Alice hunts the wild, delicious peccary. (Mmm... bacon...)
+
+You could, of course, get to the same answer by calculating the cost of peccary production.
+
+## “I Rob Banks”
+
+This question is a bit of a curveball, but the key is to think about the *marginal* effect of the two options.
+
+If this were Floyd's first crime, shooting the bank guard would add (on average) 15 years to Floyd's sentence if caught. But, since Floyd will be subject to the Three Strikes law, he now faces life in prison either way. Unless shooting the guard increases Floyd's chances of getting caught a great deal, this is now a more attractive option. Paradoxically, a law like this *could* increase the severity of the crimes commited.
