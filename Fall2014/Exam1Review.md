@@ -31,7 +31,7 @@ You could find this by solving the original equations for P and then graphing (f
 
 As you can see, the equilibrium price is $6 and the equlibrium quantity is 8 peaches per day. You could find this by solving the system of equations, or by inspection of the graph. (Either way, plug the values you find back into the original equations to check your work.)
 
-Total revenue at the equlibrium is $48 per day. With some arithmetic, you can find that this is not the maximum. For example, at $7, quantity demanded is 6, making TR = 42. But at $5, quantity demanded is 10, making TR = 50. Since lowering the price increases TR, demand is price inelastic at the equilibrium price.
+Total revenue at the equlibrium is $48 per day. With some arithmetic, you can find that this is not the maximum. For example, at $7, quantity demanded is 6, making TR = 42. But at $5, quantity demanded is 10, making TR = 50. Since lowering the price increases TR, demand is price elastic at the equilibrium price.
 
 The lazy way to find the revenue-maximizing price is to use calculus to find an expression for the elasticity and set it equal to -1. You get 5.
 
