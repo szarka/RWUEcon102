@@ -43,7 +43,7 @@ Since price can no longer ration access to apples effectively, the situation wil
 
 ## Survivor Comparative Advantage
 
-Alice's opportunity cost of producing nuts is 1/5 of a peccary per 2 kg of nuts, or 1/10 peccary per kg. Bob's opportunity cost of producing nuts is 1/4 of a peccary per kg of nuts. Since Bob's cost is lower, he has the comparative advantage in nut production, and he should specialize in producing nuts while Alice hunts the wild, delicious peccary. (Mmm... bacon...)
+Alice's opportunity cost of producing nuts is 1/5 of a peccary per 2 kg of nuts, or 1/10 peccary per kg. Bob's opportunity cost of producing nuts is 1/4 of a peccary per kg of nuts. Since Alice's cost is lower, she has the comparative advantage in nut production, and she should specialize in producing nuts while Bob hunts the wild, delicious peccary. (Mmm... bacon...)
 
 You could, of course, get to the same answer by calculating the cost of peccary production.
 
