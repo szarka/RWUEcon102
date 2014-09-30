@@ -44,6 +44,7 @@ Mentioned:
 
 * Ries, Eric. [*The Lean Startup*](http://www.amazon.com/Lean-Startup-Innovation-Successful-Businesses-ebook/dp/B004J4XGN6/), 2011. See also [theleanstartup.com](http://theleanstartup.com/). A related idea in programming is [Agile software development](https://en.wikipedia.org/wiki/Agile_software_development).
 * Thiel, Peter. [*Zero to One: Notes on Startups, or How to Build the Future*](http://zerotoonebook.com/), 2014. While the book is worthwhile, do take Thiel's comments about economic theory with a grain of salt. See also Joseph Schumpeter's concept of [creative destruction](https://en.wikipedia.org/wiki/Creative_destruction).
+* [Saturday Morning Breakfast Cereal on opportunity cost](http://www.smbc-comics.com/?id=3496#comic)
 
 ## Markets & Welfare
 
