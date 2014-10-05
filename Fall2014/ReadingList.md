@@ -34,17 +34,16 @@ Required Readings:
 * "[Does Raising The Minimum Wage Kill Jobs?](http://www.npr.org/blogs/money/2014/03/06/286861541/does-raising-the-minimum-wage-kill-jobs)." *Planet Money*, March 6, 2014.
 
 Suggested Readings:
-
 * "[Yellowberry: Meet the Teen Titan Who Is Taking On The Youth Bra Industry](http://www.lingerietalk.com/2014/04/08/lingerie-news/yellowberry-meet-the-teen-titan-who-is-taking-on-the-youth-bra-industry.html)." *LingerieTalk*, April 8, 2014.
 * "[Farming hard drives: 2 years and $1M later](https://www.backblaze.com/blog/farming-hard-drives-2-years-and-1m-later/)." *Backblaze*, November 26, 2013.
 * "['The Great Fish Swap': How America Is Downgrading Its Seafood Supply](http://www.npr.org/blogs/thesalt/2014/07/01/327248504/the-great-fish-swap-how-america-is-downgrading-its-seafood-supply)." *Fresh Air*, July 01, 2014.
 * "[Her Throne Defunct, a Princess Fights Eviction From Her Manhattan Walk-Up](http://www.nytimes.com/2014/08/05/nyregion/princess-fights-leaks-and-an-eviction-notice-in-manhattan.html?_r=0)." *The New York Times*, August 4, 2014.
 
 Mentioned:
-
 * Ries, Eric. [*The Lean Startup*](http://www.amazon.com/Lean-Startup-Innovation-Successful-Businesses-ebook/dp/B004J4XGN6/), 2011. See also [theleanstartup.com](http://theleanstartup.com/). A related idea in programming is [Agile software development](https://en.wikipedia.org/wiki/Agile_software_development).
 * Thiel, Peter. [*Zero to One: Notes on Startups, or How to Build the Future*](http://zerotoonebook.com/), 2014. While the book is worthwhile, do take Thiel's comments about economic theory with a grain of salt. See also Joseph Schumpeter's concept of [creative destruction](https://en.wikipedia.org/wiki/Creative_destruction).
 * [Saturday Morning Breakfast Cereal on opportunity cost](http://www.smbc-comics.com/?id=3496#comic)
+* Salvatore, Dominick & Diulio. [Schaum's Outline of Principles of Economics, 2nd Edition](http://www.amazon.com/Schaums-Outline-Principles-Economics-2nd/dp/0071762531/). (The first edition should also be useful for this class.)
 
 ## Markets & Welfare
 
@@ -52,6 +51,12 @@ Required Readings:
 * Mankiw, Ch. 7 Efficiency
 * Mankiw, Ch. 8 Taxation
 * Mankiw, Ch. 9 Trade
+* Mankiw, Greg. "[A Dastardly Clever Scheme](http://gregmankiw.blogspot.com/2010/09/dastardly-clever-scheme.html)." *Greg Mankiw's Blog*, September 10, 2010.
+* Benda, David. "[Pick your poison: Beer distributors oppose Prop. 19](http://www.redding.com/news/politics/pick-your-poison-beer-distributors-oppose-prop)." *Record Searchlight*, September 15, 2010.
+
+Suggested Readings:
+* Bohanon, Cecil & Brandon Pizzola. "[Who Pays the Tax? Theoretical and Empirical Considerations of Tax Incidence](http://mercatus.org/publication/who-pays-tax-theoretical-and-empirical-considerations-tax-incidence)." *Mercatus Center*, September 24, 2012.
+* Mangu-Ward, Katherine. "[Student Suspended for Selling Illicit Full-Sugar Pepsi Out of His Locker](http://reason.com/blog/2014/09/15/student-suspended-for-selling-illict-ful)." *Reason: Hit & Run Blog*, September 15, 2014.
 
 ## The Public Sector
 
@@ -59,10 +64,21 @@ Required Readings:
 * Mankiw, Ch. 10 Externalities
 * Mankiw, Ch. 11 Public Goods
 
+Suggested Readings:
+* Ward, Michael. "[The Cost of Protecting Ironing Board Makers](http://managerialecon.blogspot.com/2010/06/cost-of-protectiing-ironing-board.html)." *Managerial Econ*, June 23, 2010.
+* Kestenbaum, David. "[A Big Bridge in the Wrong Place](http://www.npr.org/blogs/money/2011/08/19/139749870/a-big-bridge-in-the-wrong-place)." *Planet Money*, August 19, 2011.
+
 ## Firms & Industrial Organization
 
 Required Readings:
 * Mankiw, Ch. 13 Costs of Production
+* "[Gender arbitrage in South Korea: Profiting from sexism](http://www.economist.com/node/17311877)." *Economist*, October 21, 2010.
 * Mankiw, Ch. 15 Monopoly (skip 15-2a)
 * Mankiw, Ch. 14 “Perfect” Competition (plus 15-2a)
 * Mankiw, Ch. 17 Oligopoly & Game Theory
+* Talwalkar, Presh. "[Las Vegas and game theory: an application of the Prisoner�s Dilemma](http://mindyourdecisions.com/blog/2010/03/09/how-las-vegas-casinos-use-the-prisoners-dilemma-to-make-money/#.VDFcJPldV8E)." *Mind Your Decisions*, March 9, 2010.
+
+Suggested Readings:
+* Craig, Elise. "[See How Cadbury Hatches 350 Million Goo-Filled Eggs a Year](http://www.wired.com/2014/04/how-to-make-cadbury-eggs/)." *Wired.com*, April 17, 2014.
+* "[Airlines hedge against soaring fuel costs](http://www.nbcnews.com/id/25419436/ns/business-us_business/t/airlines-hedge-against-soaring-fuel-costs/#.VDFZHvldV8F)." *NBCNews.com*, June 30, 2008.
+* Tovery, Mark. "[Economic Isolationism in *The Walking Dead*](http://mises.org/daily/6902/Economic-Isolationism-in-The-Walking-Dead)." *Mises Daily*, September 30, 2014. (Warning: minor spoiler.)
