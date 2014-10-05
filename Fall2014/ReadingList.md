@@ -42,16 +42,16 @@ Suggested Readings:
 Mentioned:
 * Ries, Eric. [*The Lean Startup*](http://www.amazon.com/Lean-Startup-Innovation-Successful-Businesses-ebook/dp/B004J4XGN6/), 2011. See also [theleanstartup.com](http://theleanstartup.com/). A related idea in programming is [Agile software development](https://en.wikipedia.org/wiki/Agile_software_development).
 * Thiel, Peter. [*Zero to One: Notes on Startups, or How to Build the Future*](http://zerotoonebook.com/), 2014. While the book is worthwhile, do take Thiel's comments about economic theory with a grain of salt. See also Joseph Schumpeter's concept of [creative destruction](https://en.wikipedia.org/wiki/Creative_destruction).
-* [Saturday Morning Breakfast Cereal on opportunity cost](http://www.smbc-comics.com/?id=3496#comic)
-* Salvatore, Dominick & Diulio. [Schaum's Outline of Principles of Economics, 2nd Edition](http://www.amazon.com/Schaums-Outline-Principles-Economics-2nd/dp/0071762531/). (The first edition should also be useful for this class.)
+* [*Saturday Morning Breakfast Cereal* on opportunity cost](http://www.smbc-comics.com/?id=3496#comic)
+* Salvatore, Dominick & Eugene Diulio. [Schaum's Outline of Principles of Economics, 2nd Edition](http://www.amazon.com/Schaums-Outline-Principles-Economics-2nd/dp/0071762531/). (The first edition should also be useful for this class.)
 
 ## Markets & Welfare
 
 Required Readings:
 * Mankiw, Ch. 7 Efficiency
 * Mankiw, Ch. 8 Taxation
-* Mankiw, Ch. 9 Trade
 * Mankiw, Greg. "[A Dastardly Clever Scheme](http://gregmankiw.blogspot.com/2010/09/dastardly-clever-scheme.html)." *Greg Mankiw's Blog*, September 10, 2010.
+* Mankiw, Ch. 9 Trade
 * Benda, David. "[Pick your poison: Beer distributors oppose Prop. 19](http://www.redding.com/news/politics/pick-your-poison-beer-distributors-oppose-prop)." *Record Searchlight*, September 15, 2010.
 
 Suggested Readings:
@@ -63,10 +63,10 @@ Suggested Readings:
 Required Readings:
 * Mankiw, Ch. 10 Externalities
 * Mankiw, Ch. 11 Public Goods
+* Kestenbaum, David. "[A Big Bridge in the Wrong Place](http://www.npr.org/blogs/money/2011/08/19/139749870/a-big-bridge-in-the-wrong-place)." *Planet Money*, August 19, 2011.
 
 Suggested Readings:
 * Ward, Michael. "[The Cost of Protecting Ironing Board Makers](http://managerialecon.blogspot.com/2010/06/cost-of-protectiing-ironing-board.html)." *Managerial Econ*, June 23, 2010.
-* Kestenbaum, David. "[A Big Bridge in the Wrong Place](http://www.npr.org/blogs/money/2011/08/19/139749870/a-big-bridge-in-the-wrong-place)." *Planet Money*, August 19, 2011.
 
 ## Firms & Industrial Organization
 
