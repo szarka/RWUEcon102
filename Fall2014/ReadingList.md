@@ -55,8 +55,8 @@ Required Readings:
 * Benda, David. "[Pick your poison: Beer distributors oppose Prop. 19](http://www.redding.com/news/politics/pick-your-poison-beer-distributors-oppose-prop)." *Record Searchlight*, September 15, 2010.
 
 Suggested Readings:
-* Bohanon, Cecil & Brandon Pizzola. "[Who Pays the Tax? Theoretical and Empirical Considerations of Tax Incidence](http://mercatus.org/publication/who-pays-tax-theoretical-and-empirical-considerations-tax-incidence)." *Mercatus Center*, September 24, 2012.
 * Mangu-Ward, Katherine. "[Student Suspended for Selling Illicit Full-Sugar Pepsi Out of His Locker](http://reason.com/blog/2014/09/15/student-suspended-for-selling-illict-ful)." *Reason: Hit & Run Blog*, September 15, 2014.
+* "[Episode 575: The Fondue Conspiracy](http://www.npr.org/blogs/money/2014/10/10/355177578/episode-575-the-fondue-conspiracy)." *Planet Money*, October 10, 2014.
 
 ## The Public Sector
 
