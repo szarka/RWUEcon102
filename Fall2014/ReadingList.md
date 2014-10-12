@@ -20,7 +20,7 @@ Smith, George, Jack High, and Wendy McElroy. *Adam Smith: The Wealth of Nations*
 
 Levy, David M., and Sandra J. Peart. "[The Secret History of the Dismal Science. Part I. Economics, Religion and Race in the 19th Century.](http://www.econlib.org/library/Columns/LevyPeartdismal.html)" *Library of Economics and Liberty*, January 22, 2001. The true origin of the epithet "the dismal science" is much more interesting than most who hurl it realize...
 
-Bastiat, Frédéric. "[What Is Seen and What Is Not Seen](http://www.econlib.org/library/Bastiat/basEss1.html)", 1848. You may tire of this essay before you read all the examples, but read the first ("the broken window"): it's the one that everyone refers to as the general case of the fallacy against which he argues throughout. The end of the third section ("taxes") is also pretty funny. At least, I think so.
+Bastiat, Fr&eacute;d&eacute;ric. "[What Is Seen and What Is Not Seen](http://www.econlib.org/library/Bastiat/basEss1.html)", 1848. You may tire of this essay before you read all the examples, but read the first ("the broken window"): it's the one that everyone refers to as the general case of the fallacy against which he argues throughout. The end of the third section ("taxes") is also pretty funny. At least, I think so.
 
 ## How Markets Work
 
@@ -74,11 +74,17 @@ Required Readings:
 * Mankiw, Ch. 13 Costs of Production
 * "[Gender arbitrage in South Korea: Profiting from sexism](http://www.economist.com/node/17311877)." *Economist*, October 21, 2010.
 * Mankiw, Ch. 15 Monopoly (skip 15-2a)
-* Mankiw, Ch. 14 “Perfect” Competition (plus 15-2a)
+* Mankiw, Ch. 14 "Perfect" Competition (plus 15-2a)
 * Mankiw, Ch. 17 Oligopoly & Game Theory
 * Talwalkar, Presh. "[Las Vegas and game theory: an application of the Prisoner�s Dilemma](http://mindyourdecisions.com/blog/2010/03/09/how-las-vegas-casinos-use-the-prisoners-dilemma-to-make-money/#.VDFcJPldV8E)." *Mind Your Decisions*, March 9, 2010.
 
 Suggested Readings:
 * Craig, Elise. "[See How Cadbury Hatches 350 Million Goo-Filled Eggs a Year](http://www.wired.com/2014/04/how-to-make-cadbury-eggs/)." *Wired.com*, April 17, 2014.
 * "[Airlines hedge against soaring fuel costs](http://www.nbcnews.com/id/25419436/ns/business-us_business/t/airlines-hedge-against-soaring-fuel-costs/#.VDFZHvldV8F)." *NBCNews.com*, June 30, 2008.
+
+## Summing Up
+
+Revisit the suggested readings from the Introduction.
+
+Suggested Readings:
 * Tovery, Mark. "[Economic Isolationism in *The Walking Dead*](http://mises.org/daily/6902/Economic-Isolationism-in-The-Walking-Dead)." *Mises Daily*, September 30, 2014. (Warning: minor spoiler.)
