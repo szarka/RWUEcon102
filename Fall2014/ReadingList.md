@@ -81,6 +81,7 @@ Required Readings:
 Suggested Readings:
 * Craig, Elise. "[See How Cadbury Hatches 350 Million Goo-Filled Eggs a Year](http://www.wired.com/2014/04/how-to-make-cadbury-eggs/)." *Wired.com*, April 17, 2014.
 * "[Airlines hedge against soaring fuel costs](http://www.nbcnews.com/id/25419436/ns/business-us_business/t/airlines-hedge-against-soaring-fuel-costs/#.VDFZHvldV8F)." *NBCNews.com*, June 30, 2008.
+* "[The Science of Taming Powerful Firms](http://www.nobelprize.org/nobel_prizes/economic-sciences/laureates/2014/press.html)". The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel 2014.
 
 ## Summing Up
 
