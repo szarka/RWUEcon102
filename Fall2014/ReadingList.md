@@ -57,6 +57,7 @@ Required Readings:
 Suggested Readings:
 * Mangu-Ward, Katherine. "[Student Suspended for Selling Illicit Full-Sugar Pepsi Out of His Locker](http://reason.com/blog/2014/09/15/student-suspended-for-selling-illict-ful)." *Reason: Hit & Run Blog*, September 15, 2014.
 * "[Episode 575: The Fondue Conspiracy](http://www.npr.org/blogs/money/2014/10/10/355177578/episode-575-the-fondue-conspiracy)." *Planet Money*, October 10, 2014.
+* "[RI, US end trade dispute on non-menthol cigarettes](http://www.thejakartapost.com/news/2014/10/08/ri-us-end-trade-dispute-non-menthol-cigarettes.html)." *The Jakarta Post*, October 8, 2014.
 
 ## The Public Sector
 
