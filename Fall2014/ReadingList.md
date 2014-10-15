@@ -59,15 +59,15 @@ Suggested Readings:
 * "[Episode 575: The Fondue Conspiracy](http://www.npr.org/blogs/money/2014/10/10/355177578/episode-575-the-fondue-conspiracy)." *Planet Money*, October 10, 2014.
 * "[RI, US end trade dispute on non-menthol cigarettes](http://www.thejakartapost.com/news/2014/10/08/ri-us-end-trade-dispute-non-menthol-cigarettes.html)." *The Jakarta Post*, October 8, 2014.
 
+Mentioned:
+* Roberts, Russ. [*How Adam Smith Can Change Your Life: An Unexpected Guide to Human Nature and Happiness*](http://www.amazon.com/Adam-Smith-Change-Your-Life-ebook/dp/B00INIXQA2/), 2014.
+
 ## The Public Sector
 
 Required Readings:
 * Mankiw, Ch. 10 Externalities
 * Mankiw, Ch. 11 Public Goods
 * Kestenbaum, David. "[A Big Bridge in the Wrong Place](http://www.npr.org/blogs/money/2011/08/19/139749870/a-big-bridge-in-the-wrong-place)." *Planet Money*, August 19, 2011.
-
-Suggested Readings:
-* Ward, Michael. "[The Cost of Protecting Ironing Board Makers](http://managerialecon.blogspot.com/2010/06/cost-of-protectiing-ironing-board.html)." *Managerial Econ*, June 23, 2010.
 
 ## Firms & Industrial Organization
 
@@ -77,12 +77,12 @@ Required Readings:
 * Mankiw, Ch. 15 Monopoly (skip 15-2a)
 * Mankiw, Ch. 14 "Perfect" Competition (plus 15-2a)
 * Mankiw, Ch. 17 Oligopoly & Game Theory
-* Talwalkar, Presh. "[Las Vegas and game theory: an application of the Prisoner’s Dilemma](http://mindyourdecisions.com/blog/2010/03/09/how-las-vegas-casinos-use-the-prisoners-dilemma-to-make-money/#.VDFcJPldV8E)." *Mind Your Decisions*, March 9, 2010.
 
 Suggested Readings:
 * Craig, Elise. "[See How Cadbury Hatches 350 Million Goo-Filled Eggs a Year](http://www.wired.com/2014/04/how-to-make-cadbury-eggs/)." *Wired.com*, April 17, 2014.
 * "[Airlines hedge against soaring fuel costs](http://www.nbcnews.com/id/25419436/ns/business-us_business/t/airlines-hedge-against-soaring-fuel-costs/#.VDFZHvldV8F)." *NBCNews.com*, June 30, 2008.
 * "[The Science of Taming Powerful Firms](http://www.nobelprize.org/nobel_prizes/economic-sciences/laureates/2014/press.html)". The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel 2014.
+* Talwalkar, Presh. "[Las Vegas and game theory: an application of the Prisoner’s Dilemma](http://mindyourdecisions.com/blog/2010/03/09/how-las-vegas-casinos-use-the-prisoners-dilemma-to-make-money/#.VDFcJPldV8E)." *Mind Your Decisions*, March 9, 2010.
 
 ## Summing Up
 
