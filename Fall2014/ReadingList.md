@@ -66,6 +66,7 @@ Mentioned:
 
 Required Readings:
 * Mankiw, Ch. 10 Externalities
+* Munger, Michael. "[Orange Blossom Special: Externalities and the Coase Theorem](http://www.econlib.org/library/Columns/y2008/Mungerbees.html)." *Library of Economics and Liberty*, May 5, 2008.
 * Mankiw, Ch. 11 Public Goods
 * Kestenbaum, David. "[A Big Bridge in the Wrong Place](http://www.npr.org/blogs/money/2011/08/19/139749870/a-big-bridge-in-the-wrong-place)." *Planet Money*, August 19, 2011.
 
