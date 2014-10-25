@@ -70,6 +70,9 @@ Required Readings:
 * Mankiw, Ch. 11 Public Goods
 * Kestenbaum, David. "[A Big Bridge in the Wrong Place](http://www.npr.org/blogs/money/2011/08/19/139749870/a-big-bridge-in-the-wrong-place)." *Planet Money*, August 19, 2011.
 
+Suggested Readings:
+* Ostrom, Elinor. "[Beyond Markets and States: Polycentric Governance of Complex Economic Systems](http://www.nobelprize.org/nobel_prizes/economic-sciences/laureates/2009/ostrom-lecture.html)" ([video](http://www.nobelprize.org/mediaplayer/index.php?id=1223)) *Nobelprize.org*, 2009.
+
 ## Firms & Industrial Organization
 
 Required Readings:
