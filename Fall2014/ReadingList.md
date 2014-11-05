@@ -81,12 +81,16 @@ Required Readings:
 * Mankiw, Ch. 15 Monopoly (skip 15-2a)
 * Mankiw, Ch. 14 "Perfect" Competition (plus 15-2a)
 * Mankiw, Ch. 17 Oligopoly & Game Theory
+* "[Is The NCAA An Illegal Cartel?](http://www.npr.org/blogs/money/2014/10/31/360176715/episode-579-is-the-ncaa-an-illegal-cartel)." *Planet Money*, October 31, 2014.
 
 Suggested Readings:
 * Craig, Elise. "[See How Cadbury Hatches 350 Million Goo-Filled Eggs a Year](http://www.wired.com/2014/04/how-to-make-cadbury-eggs/)." *Wired.com*, April 17, 2014.
 * "[Airlines hedge against soaring fuel costs](http://www.nbcnews.com/id/25419436/ns/business-us_business/t/airlines-hedge-against-soaring-fuel-costs/#.VDFZHvldV8F)." *NBCNews.com*, June 30, 2008.
 * "[The Science of Taming Powerful Firms](http://www.nobelprize.org/nobel_prizes/economic-sciences/laureates/2014/press.html)". The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel 2014.
 * Talwalkar, Presh. "[Las Vegas and game theory: an application of the Prisoner’s Dilemma](http://mindyourdecisions.com/blog/2010/03/09/how-las-vegas-casinos-use-the-prisoners-dilemma-to-make-money/#.VDFcJPldV8E)." *Mind Your Decisions*, March 9, 2010.
+
+Mentioned:
+* "[Famed Public Choice Economist Gordon Tullock Dead at 92](http://reason.com/24-7/2014/11/04/famed-public-choice-economist-gordon-tul)." *Reason.com*, November 4, 2014.
 
 ## Summing Up
 
