@@ -97,4 +97,4 @@ Mentioned:
 Revisit the suggested readings from the Introduction.
 
 Suggested Readings:
-* Tovery, Mark. "[Economic Isolationism in *The Walking Dead*](http://mises.org/daily/6902/Economic-Isolationism-in-The-Walking-Dead)." *Mises Daily*, September 30, 2014. (Warning: minor spoiler.)
+* "[Free Money](http://www.npr.org/blogs/money/2014/11/07/362060876/episode-581-free-money)." *Planet Money*, November 7, 2014.
