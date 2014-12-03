@@ -80,7 +80,7 @@ Required Readings:
 * "[Gender arbitrage in South Korea: Profiting from sexism](http://www.economist.com/node/17311877)." *Economist*, October 21, 2010.
 * Mankiw, Ch. 15 Monopoly (skip 15-2a)
 * Mankiw, Ch. 14 "Perfect" Competition (plus 15-2a)
-* Mankiw, Ch. 17 Oligopoly & Game Theory
+* Mankiw, Ch. 17 Oligopoly & Game Theory (17-1 only)
 * "[Is The NCAA An Illegal Cartel?](http://www.npr.org/blogs/money/2014/10/31/360176715/episode-579-is-the-ncaa-an-illegal-cartel)." *Planet Money*, October 31, 2014.
 
 Suggested Readings:
@@ -98,3 +98,4 @@ Revisit the suggested readings from the Introduction.
 
 Suggested Readings:
 * "[Free Money](http://www.npr.org/blogs/money/2014/11/07/362060876/episode-581-free-money)." *Planet Money*, November 7, 2014.
+* "[How Stuff Gets Cheaper](http://www.npr.org/blogs/money/2014/11/28/366793693/episode-586-how-stuff-gets-cheaper)." *Planet Money*, November 28, 2014.
